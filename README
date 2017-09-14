@@ -36,5 +36,5 @@ The folder './dataset' contains the mat files used for this demo code
 III. USAGE
 =================
 
-Modify the parameters, which are defined and explained, in 'main_demo.m' properly then run.
+Modify the parameters which are defined and explained in 'main_demo.m' properly then run.
 
