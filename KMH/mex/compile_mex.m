@@ -1,0 +1,1 @@
+mex -v COMPFLAGS="$COMPFLAGS /openmp" mexHamming.cpp
