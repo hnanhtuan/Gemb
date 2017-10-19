@@ -4,7 +4,7 @@ Gaussian Mixture Model Embedding
 
 ![alt text](images/Gemb_diagram.png)
 
-This is the Matlab implementations of our methods **Gaussian Mixture Model Embedding (Gemb)** accepted in [ICIP17](http://2017.ieeeicip.org/).
+This is the Matlab implementations of our methods **Gaussian Mixture Model Embedding (Gemb)** accepted in [ICIP17](http://2017.ieeeicip.org/) [[pdf]](https://arxiv.org/pdf/1704.01754.pdf).
 
 The source code includes library for other hashing methods including: 
 * Binary Autoencoder (ba)
@@ -15,6 +15,17 @@ The source code includes library for other hashing methods including:
 
 These libraries are slightly modified but still keeping the algorithm and recommended parameters from original papers.
 
+
+### BibTex
+``` 
+@INPROCEEDINGS{Gemb,
+ author    = {Tuan Hoang and Do, Thanh-Toan and Dang-Khoa Le Tan and Cheung, Ngai-Man},
+ title     = {ENHANCING FEATURE DISCRIMINATION FOR UNSUPERVISED HASHING},
+ bookTitle = {ICIP},
+ year      = {2017},
+ month     = {Sep},
+}
+```
 
 DATASET
 =================
